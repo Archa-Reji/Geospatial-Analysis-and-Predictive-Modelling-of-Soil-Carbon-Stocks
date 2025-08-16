@@ -1,0 +1,2 @@
+# Geospatial-Analysis-and-Predictive-Modelling-of-Soil-Carbon-Stocks
+This repository consists of exploratory data analysis and soil carbon stock modeling at a site in Edgeroi District, Australia using traditional statistical approaches (IWD, Kriging) and novel method of clubbing ML model like Random Forest and residual modeling using kriging. Additionally an in-depth modelling of soil carbon content is also executed
